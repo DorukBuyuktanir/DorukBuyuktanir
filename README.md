@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DorukBuyuktanir
-- 👀 I’m interested in coding with C#, python and javascript( Html, css also).
+- 👀 I’m interested in coding with C#(For Unity), C++, javascript( Html, css also) and a bit of C. I used to use python:
 - 🌱 I’m currently learning Unity to creat better games.
 - 💞️ I’m not looking to collaborate these days.
 - 📫 Reach me at my gmail doruk.buyuktanir11@gmail.com if you have any question or adviceses about my projects.
